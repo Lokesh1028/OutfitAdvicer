@@ -27,4 +27,22 @@ Reverse Indexing: The app builds a reverse index to quickly match user input key
 User Interaction: Users input an occasion, and the app processes the input to retrieve matching outfit advice from the dataset.
 
 
+**Installation**
+ 1. Clone the Repository
+ 2. run the command in the terminal with the file directory
+      npm install
+    After installing dependencies.
+      npm run dev
+ 3. this runs the app and follow the link to use the application
 
+
+
+**Contact**
+
+For questions or feedback, feel free to reach out:
+
+Email: lokeshreddy1631@gmail.com
+
+GitHub: Lokesh1028
+
+Enjoy using the OutfitAdvicer App! 🎉👗👔
