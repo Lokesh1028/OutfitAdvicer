@@ -1,6 +1,6 @@
 **Fashion Advice App**
 
-Welcome to the Fashion Advice App! This application provides personalized outfit recommendations for various occasions, helping users dress appropriately and stylishly. Whether you're preparing for a casual brunch, a formal event, or a job interview, this app has you covered.
+Welcome to the OutfitAdvicer App! This application provides personalized outfit recommendations for various occasions, helping users dress appropriately and stylishly. Whether you're preparing for a casual brunch, a formal event, or a job interview, this app has you covered.
 
 **Features**
 
