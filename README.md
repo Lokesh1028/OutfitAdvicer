@@ -30,10 +30,13 @@ User Interaction: Users input an occasion, and the app processes the input to re
 **Installation**
  1. Clone the Repository
  2. run the command in the terminal with the file directory
+    
       npm install
+
     After installing dependencies.
+    
       npm run dev
- 3. this runs the app and follow the link to use the application
+ 4. this runs the app and follow the link to use the application
 
 
 
