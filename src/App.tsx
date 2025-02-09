@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Shirt, Send, Sparkles, Clock, Users, Palette, TrendingUp } from 'lucide-react';
 
 function App() {
-  const [outfit, setOutfit] = useState('');
+  const [outfit,setOutfit] = useState('');
   const [advice, setAdvice] = useState('');
 
   const fashionAdvice = {
